@@ -1,4 +1,4 @@
-% close all; clearvars; clc;
+close all; clearvars; clc;
 
 
 %% LOAD PHANTOM DATA
@@ -6,7 +6,7 @@
 load('qsm_phantom_data/QSM_Phantom_Masked.mat');
 
 
-%% RUN ARLO 
+%% RUN NLCFF 
 
 timer_start(1) = tic;
 
