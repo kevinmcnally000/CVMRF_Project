@@ -1,6 +1,6 @@
 close all; clearvars; clc;
 
-%% LOAD PHANTOM DATA
+%% LOAD VOLUNTEER DATA
 
 load('qsm_volunteer_data/QSM_volunteer_masked.mat');
 
