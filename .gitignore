@@ -3,5 +3,5 @@
 *.mat
 arlo.m
 Fit_ppm_complex_TE.m
-analyse_volunteer_results.m
+view_volunteer_results.m
 figures/
